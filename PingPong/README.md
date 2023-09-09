@@ -1,4 +1,3 @@
-# P01D06 
 Educational project Pong from organization «School 21».
 
 * ***Task***

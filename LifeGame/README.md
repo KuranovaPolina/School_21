@@ -1,4 +1,3 @@
-# P02D13
 Educational project The Game of Life from organization «School 21».
 
 Task:
