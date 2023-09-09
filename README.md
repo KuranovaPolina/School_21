@@ -5,3 +5,6 @@ Pool team projects:
 1) The Ping pong game
 2) The game of Life
 3) Polish notation (Calculator)
+
+Core program projects:
+1) Bash utils - cat and grep (Ubuntu, with tests)

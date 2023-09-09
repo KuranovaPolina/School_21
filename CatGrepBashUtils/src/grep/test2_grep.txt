@@ -1,0 +1,15 @@
+#include <regex.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <unistd.h>
+
+#define MAX 1024
+
+int main() {
+	printf("Hello world!\nThis is 1st test with MAX = %d ", MAX);
+	include <regex.h>;
+}
+
+123
+1
