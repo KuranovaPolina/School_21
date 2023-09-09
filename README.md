@@ -8,3 +8,4 @@ Pool team projects:
 
 Core program projects:
 1) Bash utils - cat and grep (Ubuntu, with tests)
+2) string.h library + sprintf function
