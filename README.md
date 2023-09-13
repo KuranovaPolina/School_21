@@ -10,3 +10,4 @@ Core program projects:
 1) Bash utils - cat and grep (Ubuntu, with tests)
 2) string.h library + sprintf function
 3) Smart calculator
+4) Linux monitoring bash scripts (for Ubuntu Server 20.04 LTS)
